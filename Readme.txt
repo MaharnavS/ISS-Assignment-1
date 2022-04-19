@@ -4,12 +4,9 @@ Group: 5
 
 GitHub Repo - https://github.com/MaharnavS/ISS-Assignment-1
 
-Q1
-(a) The file for this function is named Q1_a.sh
-	It takes quote.txt and removes empty lines
-
-(b) The file for this function is named Q1_b.sh
-	It takes qoute.txt and removes duplicates
+Q1  The file is named Q1.sh
+	(a) It takes quote.txt and removes empty lines
+	(b)	It takes qoute.txt and removes duplicates
 
 Q2 The file is named Q2.sh
 	It takes quote.txt and outputs speech.txt according to the mentioned requirements
